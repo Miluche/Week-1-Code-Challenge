@@ -12,7 +12,7 @@ if (mark < 79){
     } else if (mark<=49 && mark>40) {
           console.log("Grade is D"); 
     } else if (mark<40) {
-          console.log("Grade : E"); 
+          console.log("Grade is E"); }
       else if (mark<100 && mark<0) {
             console.log("Invalid mark");}
 else {
