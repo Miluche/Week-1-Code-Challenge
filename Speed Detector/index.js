@@ -8,7 +8,7 @@ else
 console.log("Points:"+((speed-70)/5));
 if(((speed-70)/5)>12)
 {
-sonsole.log("License suspended");
+console.log("License suspended");
 }
 }
 }
