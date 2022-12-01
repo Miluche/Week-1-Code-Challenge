@@ -1,5 +1,7 @@
-/code to display grades of marks entered by the users
+//code to display grades of marks entered by the users
+function mark(){
 let mark= prompt("please enter the students marks", mark); //this line prompt the user to enter the students mark
+}
 if (mark > 79)//condition to check if mark entered is more than 79
 {
     console.log("Grade is A");      
