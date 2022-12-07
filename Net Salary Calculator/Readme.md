@@ -21,9 +21,7 @@ If you face any challenge make sure to reach out to us on meshack.cheruiyot5@gma
 
 **Authors**
 Contributors names and contact info
-
-ex. Dominique Pizzie
-ex. @DomPizzie
+Meshack cheruiyot, meshackchep@gmail.com
 
 License
 This project is licensed under the meshackcheruiyot@gmail.com License - see the LICENSE.md file
